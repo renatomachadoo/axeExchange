@@ -2,7 +2,7 @@
 
 ## Description
 
-A lightweight standalone script that simulates price fluctuation with configurable intervals. Includes a command to check the current fluctuation, and can be easily integrated with other resources.
+A lightweight standalone fivem script that simulates price fluctuation with configurable intervals. Includes a command to check the current fluctuation, and can be easily integrated with other resources.
 
 ## Usage Example:
 
